@@ -79,30 +79,27 @@ A small group of high-value customers contributed a significant portion of total
 5. Build loyalty programs for high-value customers.
 
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
 
 ## Project Structure
 
-Pricing-Strategy-Analysis/
-
-├── Online Retail.xlsx
-
-├── pricing_strategy_analysis.ipynb
-
-├── top_revenue_products.png
-
-├── top_selling_products.png
-
-├── country_revenue.png
-
-├── monthly_revenue.png
-
-├── price_vs_demand.png
-
-├── discount_impact.png
+Pricing-Strategy-Analysis
 
 ├── README.md
-
-└── requirements.txt
+├── requirements.txt
+├── pricing_strategy_analysis.ipynb
+├── Pricing_Strategy_Dashboard.pbix
+├── Online_Retail_Cleaned.xlsx
+├── dashboard.png
+├── top_revenue_products.png
+├── country_revenue.png
+├── monthly_revenue.png
+├── price_vs_demand.png
+└── discount_impact.png
 
 ---
 
