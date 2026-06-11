@@ -112,6 +112,5 @@ Pricing-Strategy-Analysis
 
 ---
 
-## Author
 
-Ayushi joshi
+
